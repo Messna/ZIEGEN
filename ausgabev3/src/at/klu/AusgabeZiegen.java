@@ -6,7 +6,7 @@ public class AusgabeZiegen {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("ZIEGE123");
+		System.out.println("ZIEGE1243");
 
 	}
 
